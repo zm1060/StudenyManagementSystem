@@ -10,7 +10,7 @@ You can some records. Such as Name, Number and a lot of stuffs.
 For use, you just need to open the terimal
 and run:
 make
-./SIMS.exe
+&& ./SIMS.exe
 
 
 THANKS!!!
